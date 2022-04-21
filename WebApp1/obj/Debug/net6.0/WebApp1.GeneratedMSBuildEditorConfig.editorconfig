@@ -8,153 +8,153 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp1
 build_property.RootNamespace = WebApp1
-build_property.ProjectDir = C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Tyler\CIDM-4390-main\WebApp1\
+build_property.ProjectDir = C:\Users\Tyler\OneDrive\Desktop\WT Class\2022 Spring\Software System Development\Testing\Final\CIDM-4390\WebApp1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Tyler\CIDM-4390-main\WebApp1
+build_property.MSBuildProjectDirectory = C:\Users\Tyler\OneDrive\Desktop\WT Class\2022 Spring\Software System Development\Testing\Final\CIDM-4390\WebApp1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Error.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Index.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Instructors/Create.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Instructors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Instructors/Delete.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Instructors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Instructors/Details.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Instructors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Instructors/Edit.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Instructors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Instructors/Index.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Instructors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Privacy.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramAdmins/Create.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramAdmins/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUFkbWluc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramAdmins/Delete.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramAdmins/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUFkbWluc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramAdmins/Details.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramAdmins/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUFkbWluc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramAdmins/Edit.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramAdmins/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUFkbWluc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramAdmins/Index.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramAdmins/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUFkbWluc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramEvaluators/Create.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramEvaluators/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUV2YWx1YXRvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramEvaluators/Delete.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramEvaluators/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUV2YWx1YXRvcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramEvaluators/Details.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramEvaluators/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUV2YWx1YXRvcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramEvaluators/Edit.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramEvaluators/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUV2YWx1YXRvcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/ProgramEvaluators/Index.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/ProgramEvaluators/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3JhbUV2YWx1YXRvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/SystemAdmins/Create.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/SystemAdmins/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQWRtaW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/SystemAdmins/Delete.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/SystemAdmins/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQWRtaW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/SystemAdmins/Details.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/SystemAdmins/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQWRtaW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/SystemAdmins/Edit.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/SystemAdmins/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQWRtaW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/SystemAdmins/Index.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/SystemAdmins/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQWRtaW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/_ViewImports.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/_ViewStart.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cward/Documents/Fall 2022/Soft Sys Dev/Tyler/CIDM-4390-main/WebApp1/Pages/Shared/_Layout.cshtml]
+[C:/Users/Tyler/OneDrive/Desktop/WT Class/2022 Spring/Software System Development/Testing/Final/CIDM-4390/WebApp1/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k18sh7oufj

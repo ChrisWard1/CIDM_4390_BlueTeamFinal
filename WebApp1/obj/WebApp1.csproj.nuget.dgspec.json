@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Tyler\\CIDM-4390-main\\WebApp1\\WebApp1.csproj": {}
+    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Tyler\\CIDM-4390-main\\WebApp1\\WebApp1.csproj": {
+    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Tyler\\CIDM-4390-main\\WebApp1\\WebApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj",
         "projectName": "WebApp1",
-        "projectPath": "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Tyler\\CIDM-4390-main\\WebApp1\\WebApp1.csproj",
-        "packagesPath": "C:\\Users\\cward\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Tyler\\CIDM-4390-main\\WebApp1\\obj\\",
+        "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj",
+        "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cward\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
