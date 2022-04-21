@@ -41,32 +41,34 @@ public class ProgramAdminTest
             using (var db = new ApbetProjectContext(Utilities.TestDbContextOptions()))
             {
                 var IntID = 12;
+                var sub = true;
                 var expectedFormSubmission = new Instructor()
                 {
                     InstructorID = IntID,
                     FirstName = "Tim",
                     LastName = "Hope",
                     Email = "Tim.TimHope@gmail.com",
-                    //FormSubmission = False
+                    FormSubmission = true,
                 };
 
                 await db.AddFormSubmissionAsync(expectedFormSubmission);
 
                 var actualFormSubmission = await db.FindAsync<Instructor>(IntID);
-                //Assert.False();
+                Assert.true(sub ==true, "Form has been submitted.");
             }
         }
 
         [Fact]
-        public async Task InstructorAuthenticated()
+        public async Task InstructorChanged()
         {
             using (var db = new ApbetProjectContext(Utilities.TestDbContextOptions()))
             {
                 var InstrucID =11;
+                var InstrucName = "Testings"
                 var expectedInstructor = new Instructor()
                 {
                     InstructorID = InstrucID,
-                    FirstName = "Testing",
+                    FirstName = InstrucName,
                     LastName = "StillTesting",
                     Email = "test.testingstill@gmail.com",
 
