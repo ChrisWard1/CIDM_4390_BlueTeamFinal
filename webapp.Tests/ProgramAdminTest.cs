@@ -48,13 +48,13 @@ public class ProgramAdminTest
                     FirstName = "Tim",
                     LastName = "Hope",
                     Email = "Tim.TimHope@gmail.com",
-                    FormSubmission = true,
+                    FormSubmission = sub,
                 };
 
                 await db.AddFormSubmissionAsync(expectedFormSubmission);
 
                 var actualFormSubmission = await db.FindAsync<Instructor>(IntID);
-                Assert.true(sub ==true, "Form has been submitted.");
+                Assert.True(sub==true,"Form as been submitted");
             }
         }
 
@@ -64,13 +64,17 @@ public class ProgramAdminTest
             using (var db = new ApbetProjectContext(Utilities.TestDbContextOptions()))
             {
                 var InstrucID =11;
-                var InstrucName = "Testings"
+                var InstruName = "Testings";
                 var expectedInstructor = new Instructor()
                 {
                     InstructorID = InstrucID,
-                    FirstName = InstrucName,
+                    FirstName = InstruName,
                     LastName = "StillTesting",
                     Email = "test.testingstill@gmail.com",
+                    
+
+                    
+
 
                     
                 };

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj": {}
+    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj": {
+    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj",
         "projectName": "webapp.Tests",
-        "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj",
+        "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\webapp.Tests\\webapp.Tests.csproj",
         "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\webapp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\webapp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\WebApp1\\WebApp1.csproj": {
-                "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\WebApp1\\WebApp1.csproj"
+              "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj": {
+                "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj"
               }
             }
           }
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\WebApp1\\WebApp1.csproj": {
+    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\WebApp1\\WebApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj",
         "projectName": "WebApp1",
-        "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\WebApp1\\WebApp1.csproj",
+        "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\WebApp1.csproj",
         "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\WebApp1\\obj\\",
+        "outputPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\Final\\CIDM-4390\\WebApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
