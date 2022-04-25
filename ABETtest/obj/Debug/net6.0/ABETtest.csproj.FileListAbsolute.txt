@@ -46,3 +46,15 @@ C:\Users\Tyler\OneDrive\Desktop\WT Class\2022 Spring\Software System Development
 C:\Users\Tyler\OneDrive\Desktop\WT Class\2022 Spring\Software System Development\Testing\CIDM-4390\ABETtest\obj\Debug\net6.0\refint\ABETtest.dll
 C:\Users\Tyler\OneDrive\Desktop\WT Class\2022 Spring\Software System Development\Testing\CIDM-4390\ABETtest\obj\Debug\net6.0\ABETtest.pdb
 C:\Users\Tyler\OneDrive\Desktop\WT Class\2022 Spring\Software System Development\Testing\CIDM-4390\ABETtest\obj\Debug\net6.0\ref\ABETtest.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\bin\Debug\net6.0\ABETtest.deps.json
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\bin\Debug\net6.0\ABETtest.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\bin\Debug\net6.0\ABETtest.pdb
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ABETtest.csproj.AssemblyReference.cache
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ABETtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ABETtest.AssemblyInfoInputs.cache
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ABETtest.AssemblyInfo.cs
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ABETtest.csproj.CoreCompileInputs.cache
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ABETtest.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\refint\ABETtest.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ABETtest.pdb
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\Final Project another new beginning\CIDM_4390_BlueTeamFinal-1\ABETtest\obj\Debug\net6.0\ref\ABETtest.dll

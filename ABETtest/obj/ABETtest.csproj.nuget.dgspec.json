@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\ABETtest\\ABETtest.csproj": {}
+    "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Final Project another new beginning\\CIDM_4390_BlueTeamFinal-1\\ABETtest\\ABETtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\ABETtest\\ABETtest.csproj": {
+    "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Final Project another new beginning\\CIDM_4390_BlueTeamFinal-1\\ABETtest\\ABETtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\ABETtest\\ABETtest.csproj",
+        "projectUniqueName": "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Final Project another new beginning\\CIDM_4390_BlueTeamFinal-1\\ABETtest\\ABETtest.csproj",
         "projectName": "ABETtest",
-        "projectPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\ABETtest\\ABETtest.csproj",
-        "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\OneDrive\\Desktop\\WT Class\\2022 Spring\\Software System Development\\Testing\\CIDM-4390\\ABETtest\\obj\\",
+        "projectPath": "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Final Project another new beginning\\CIDM_4390_BlueTeamFinal-1\\ABETtest\\ABETtest.csproj",
+        "packagesPath": "C:\\Users\\cward\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\Final Project another new beginning\\CIDM_4390_BlueTeamFinal-1\\ABETtest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cward\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
